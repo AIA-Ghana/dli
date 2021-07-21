@@ -73,6 +73,9 @@
 
 
 **Some points**
+- group call sunday
+
+
 Stage 1 Scope - 1 month
 - open source project, more can contribute
 
@@ -81,7 +84,6 @@ Stage 1 Scope - 1 month
 
 ---------------------------
 
-- group call sunday
 
 We have 
 - Technical Resource People
