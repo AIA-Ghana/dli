@@ -68,8 +68,7 @@
 - Rice
 - Cassava
 
-
-
+---------------------------
 
 
 **Some points**
@@ -83,7 +82,6 @@ Stage 1 Scope - 1 month
 
 
 ---------------------------
-
 
 We have 
 - Technical Resource People
