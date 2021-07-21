@@ -6,16 +6,16 @@
 
 
 ### Project to be built in stages
-. Train ML models, 
-. Deploy ML models
+- Train ML models, 
+- Deploy ML models
 
 ## Stage 1
 Data analysis of a particular tropical crop
-. Soil, humidity, temperature etc...
+- Soil, humidity, temperature etc...
 
 
-Computer vision for Agriculture
-    plants, pests...
+## Computer vision for Agriculture
+- plants, pests...
 
 
 Stage 2
